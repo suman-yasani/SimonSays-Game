@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+}
+
+#highscore {
+    color: green;
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 0 10px 10px 0;
+    cursor: pointer;
+}
+
+.blue {
+    background-color: #3498db;
+}
+
+.yellow {
+    background-color: #f1c40f;
+}
+
+.purple {
+    background-color: #9b59b6;
+}
+
+.orange {
+    background-color: #e67e22;
+}
+
+.gameFlash {
+    background-color: #fff;
+}
+
+.userFlash {
+    background-color: green;
+}
